@@ -1,6 +1,6 @@
-# GIS
+# GIS and mapping
 
-A list of open-source GIS (Geographic Information System.
+A list of open-source GIS (Geographic Information System).
 
 ## GIS
 
