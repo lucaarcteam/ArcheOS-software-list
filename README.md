@@ -14,6 +14,12 @@ This project is an attempt to restart ArcheOS, the Archaeological Operating Syst
 
 ### Research
 
+#### Historical sources
+
+- [Optical character recognition](software/ocr.md)
+
+#### Artificial Intelligence
+
 - [AI and Machine Learning](#ai-and-machine-learning)
 
 ### Cultural Heritage valorization
