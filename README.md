@@ -6,7 +6,7 @@ This project is an attempt to restart ArcheOS, the Archaeological Operating Syst
 
 ## Categories
 
-- [3D documentation](3software/3d_documentation.mdd_documentation)
+- [3D documentation](software/3d_documentation.md)
 - [GIS and Mapping](#gis-and-mapping)
 - [Database and Data Management](#database-and-data-management)
 - [AI and Machine Learning](#ai-and-machine-learning)
