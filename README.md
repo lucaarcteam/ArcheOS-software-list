@@ -6,10 +6,18 @@ This project is an attempt to restart ArcheOS, the Archaeological Operating Syst
 
 ## Categories
 
+### Excavation and Survey
+
 - [3D documentation](software/3d_documentation.md)
 - [GIS and Mapping](#gis-and-mapping)
 - [Database and Data Management](#database-and-data-management)
+
+### Research
+
 - [AI and Machine Learning](#ai-and-machine-learning)
+
+### Cultural Heritage valorization
+
 - [Visualization and VR/AR](#visualization-and-vrar)
 - [Utilities and Miscellaneous Tools](#utilities-and-miscellaneous-tools)
 
