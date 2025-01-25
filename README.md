@@ -6,7 +6,7 @@ This project is an attempt to restart ArcheOS, the Archaeological Operating Syst
 
 ## Categories
 
-- [Photogrammetry and 3D](#photogrammetry-and-3d)
+- [Archaeological 3D documentation](#archaeological_3d_documentation)
 - [GIS and Mapping](#gis-and-mapping)
 - [Database and Data Management](#database-and-data-management)
 - [AI and Machine Learning](#ai-and-machine-learning)
