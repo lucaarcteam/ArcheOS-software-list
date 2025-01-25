@@ -9,8 +9,8 @@ This project is an attempt to restart ArcheOS, the Archaeological Operating Syst
 ### Excavation and Survey
 
 - [3D documentation](software/3d_documentation.md)
-- [GIS and Mapping](#gis-and-mapping)
-- [Database and Data Management](#database-and-data-management)
+- [GIS and Mapping](/software/gis.md)
+- [Database and Data Management](software/dbms.md)
 
 ### Research
 
