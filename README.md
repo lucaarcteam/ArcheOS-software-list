@@ -47,6 +47,10 @@ This project is an attempt to restart ArcheOS, the Archaeological Operating Syst
 - [Visualization and VR/AR](#visualization-and-vrar)
 - [Utilities and Miscellaneous Tools](#utilities-and-miscellaneous-tools)
 
+## Archaeological subfields
+
+- [Archaeoanthropology](archaeoanthropology.md)
+
 ## How to Contribute
 
 Read the [contribution guidelines](CONTRIBUTING.md) to add new software or improve the repository.
