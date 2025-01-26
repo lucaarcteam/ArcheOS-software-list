@@ -6,7 +6,7 @@ This project is an attempt to restart ArcheOS, the Archaeological Operating Syst
 
 ## Categories
 
-### Excavation and Survey
+### 1. Excavation and Survey
 
 #### 3D documentation
 
@@ -28,7 +28,7 @@ This project is an attempt to restart ArcheOS, the Archaeological Operating Syst
 
 - [Total Station](software/total_station.md)
 
-### Research
+### 2. Research
 
 #### Artificial Intelligence
 
@@ -40,11 +40,11 @@ This project is an attempt to restart ArcheOS, the Archaeological Operating Syst
 
 - [Optical character recognition](software/ocr.md)
 
-### Outreach and Science Communication
+### 3. Outreach and Science Communication
 
 - [3D models](software/outreach_3d_models.md)
 
-### Cultural Heritage valorization
+### 4. Cultural Heritage Valorization
 
 ## Archaeological subfields
 
