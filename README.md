@@ -12,6 +12,10 @@ This project is an attempt to restart ArcheOS, the Archaeological Operating Syst
 - [GIS and Mapping](/software/gis.md)
 - [Database and Data Management](software/dbms.md)
 
+#### Hardware
+
+- [Total Station](software/total_station.md)
+
 ### Research
 
 #### Historical sources
