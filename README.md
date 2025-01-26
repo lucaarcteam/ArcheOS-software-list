@@ -11,7 +11,17 @@ This project is an attempt to restart ArcheOS, the Archaeological Operating Syst
 #### 3D documentation
 
 - [Structure from Motion](software/sfm.md)
+
+#### Mesh-editing
+
+- [Mesh-editing](software/mesh-editing.md)
+
+#### GIS and Mapping
+
 - [GIS and Mapping](/software/gis.md)
+
+#### Database and Data Management
+
 - [Database and Data Management](software/dbms.md)
 
 #### Hardware
