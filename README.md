@@ -36,6 +36,10 @@ This project is an attempt to restart ArcheOS, the Archaeological Operating Syst
 
 - [3D modeling](software/3d_modeling.md)
 
+#### Forensic Reconstructions
+
+- [Forensic Facial Approximation](software/ffa.md)
+
 #### Historical sources
 
 - [Optical character recognition](software/ocr.md)
