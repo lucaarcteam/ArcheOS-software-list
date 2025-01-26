@@ -30,6 +30,8 @@ This project is an attempt to restart ArcheOS, the Archaeological Operating Syst
 
 ### Research
 
+#### Artificial Intelligence
+
 #### 3D Reconstruction
 
 - [3D modeling](software/3d_modeling.md)
@@ -38,14 +40,7 @@ This project is an attempt to restart ArcheOS, the Archaeological Operating Syst
 
 - [Optical character recognition](software/ocr.md)
 
-#### Artificial Intelligence
-
-- [AI and Machine Learning](#ai-and-machine-learning)
-
 ### Cultural Heritage valorization
-
-- [Visualization and VR/AR](#visualization-and-vrar)
-- [Utilities and Miscellaneous Tools](#utilities-and-miscellaneous-tools)
 
 ## Archaeological subfields
 
