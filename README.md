@@ -40,6 +40,10 @@ This project is an attempt to restart ArcheOS, the Archaeological Operating Syst
 
 - [Optical character recognition](software/ocr.md)
 
+### Outreach and Science Communication
+
+- [3D models](software/outreach_3d_models.md)
+
 ### Cultural Heritage valorization
 
 ## Archaeological subfields
