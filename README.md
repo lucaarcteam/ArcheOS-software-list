@@ -18,6 +18,10 @@ This project is an attempt to restart ArcheOS, the Archaeological Operating Syst
 
 ### Research
 
+#### 3D Reconstruction
+
+- [3D modeling](software/3d_modeling.md)
+
 #### Historical sources
 
 - [Optical character recognition](software/ocr.md)
