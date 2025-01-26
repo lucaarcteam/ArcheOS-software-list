@@ -49,7 +49,7 @@ This project is an attempt to restart ArcheOS, the Archaeological Operating Syst
 
 ## Archaeological subfields
 
-- [Archaeoanthropology](archaeoanthropology.md)
+- [Archaeoanthropology](subfields/archaeoanthropology.md)
 
 ## How to Contribute
 
