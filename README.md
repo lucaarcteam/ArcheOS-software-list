@@ -45,6 +45,7 @@ This project is an attempt to restart ArcheOS, the Archaeological Operating Syst
 ## Archaeological subfields
 
 - [Archaeoanthropology](subfields/archaeoanthropology.md)
+- [Forensic Archaeology](subfields/forensic_archaeology.md)
 
 ## How to Contribute
 
