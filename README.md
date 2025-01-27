@@ -44,6 +44,10 @@ This project is an attempt to restart ArcheOS, the Archaeological Operating Syst
 
 - [Optical character recognition](software/ocr.md)
 
+#### Statistical Sciences
+
+- [Statistics](software/statistics.md)
+
 ### 3. Outreach and Science Communication
 
 - [3D models](software/outreach_3d_models.md)
