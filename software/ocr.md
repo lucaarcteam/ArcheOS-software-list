@@ -1,4 +1,4 @@
-# Optical character recognition
+# Optical Character Recognition
 
 A list of open-source OCR software (Optical character recognition).
 
