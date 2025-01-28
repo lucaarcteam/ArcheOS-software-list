@@ -36,10 +36,7 @@ This project is an attempt to restart ArcheOS, the Archaeological Operating Syst
 
 - [3D modeling](software/3d_modeling.md)
 - [CAD and BIM](software/cad_bim.md)
-
-#### Forensic Reconstructions
-
-- [Forensic Facial Approximation](software/ffa.md)
+- [FFA](software/ffa.md)
 
 #### Medical Analysis
 
