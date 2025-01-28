@@ -41,6 +41,10 @@ This project is an attempt to restart ArcheOS, the Archaeological Operating Syst
 
 - [Forensic Facial Approximation](software/ffa.md)
 
+#### Medical Analysis
+
+- [DICOM data](software/dicom.md)
+
 #### Historical sources
 
 - [Optical character recognition](software/ocr.md)
