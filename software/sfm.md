@@ -9,3 +9,9 @@ A list of open-source software for 3D documentation.
 
 - **OpenDroneMap**: A platform for processing drone images and creating 3D models.  
   [Official website](https://www.opendronemap.org/)
+
+  - **openMVG**: OpenMVG (Multiple View Geometry) is a library for computer-vision scientists and targeted for the Multiple View Geometry community.
+  [Official website](https://github.com/openMVG/openMVG)
+
+- **OpenMVS**: OpenMVS (Multi-View Stereo) is a library for computer-vision scientists and especially targeted to the Multi-View Stereo reconstruction community.
+  [Official website](https://cdcseacave.github.io/)
