@@ -33,6 +33,9 @@ The complete list in alphabetical order.
 - **Meshroom**: Meshroom is a free, open-source 3D Reconstruction Software based on the AliceVision Photogrammetric Computer Vision framework.
   [Official website](https://alicevision.org/)
 
+- **Okular**: Okular allows you to read PDF documents, comics and EPub books, browse images, visualize Markdown documents, and much more.
+  [Official website](https://okular.kde.org/)
+
 - **OrtogOnBlender**: OrtogOnBlender is an orthognathic surgery planning add-on for Blender, useful for FFA (Forensic Facial Approximation).  
   [Official website](http://www.ciceromoraes.com.br/doc/en/OrtogOnBlender/)
 
