@@ -6,6 +6,8 @@ This project is an attempt to restart ArcheOS, the Archaeological Operating Syst
 
 ## Categories
 
+Here is a list of software divided by categories. If you prefer, there is also a [complete list in alphabetical order](software/list.md)
+
 ### 1. Excavation and Survey
 
 #### 3D documentation
