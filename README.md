@@ -62,6 +62,10 @@ Here below is a list of software divided by categories. If you prefer, there is 
 
 ### 4. Cultural Heritage Valorization
 
+### 5. Miscellanea
+
+- [Office](software/office.md)
+
 ## Archaeological subfields
 
 - [Archaeoanthropology](subfields/archaeoanthropology.md)
