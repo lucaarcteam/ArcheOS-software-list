@@ -60,6 +60,9 @@ The complete list in alphabetical order.
 - **R**: R is a free software environment for statistical computing and graphics.  
   [Official website](https://www.r-project.org/)
 
+- **Tellico**: Tellico is a Collection management software, free and simple.
+  [Official website](https://tellico-project.org/)
+
 - **Tesseract**: Tesseract is an optical character recognition engine for various operating systems. It needs the extension for the language and for the spellcheck (e.g. for Italian tesseract-ocr-ita and hunspell-it)
 
 - **Xournal++**: Xournal++ is an open-source and cross-platform note-taking software that is fast, flexible, and functional.
