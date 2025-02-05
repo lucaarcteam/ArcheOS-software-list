@@ -27,6 +27,9 @@ The complete list in alphabetical order.
 - **Invesalius**: Open source software for reconstruction of computed tomography and magnetic ressonance images.  
   [Official website](https://invesalius.github.io/)
 
+- **LibreOffice**: LibreOffice is a private, free and open source office suite.
+  [Official website](https://www.libreoffice.org/)
+
 - **MeshLab**: A powerful tool for processing and editing 3D clouds and meshes.  
   [Official website](https://www.meshlab.net/)
 
