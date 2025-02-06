@@ -2,7 +2,7 @@
 
 A collection of open-source software and digital tools for archaeology.  
 This repository aims to support researchers, professionals, and enthusiasts in their work by providing an updated list of useful tools.  
-This project is an attempt to restart ArcheOS, the Archaeological Operating System developed by Arc-Team in the past years.
+This project is an attempt to restart ArcheOS, the Archaeological Operating System developed by Arc-Team between 2005 and 2015.
 
 ## Categories
 
