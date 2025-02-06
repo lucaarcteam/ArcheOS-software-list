@@ -7,6 +7,12 @@ A list of open-source office software.
 - **Thunderbird**: Thunderbird is a free email application that's easy to set up and customize.
   [Official website](https://www.thunderbird.net/en-US/)
 
+
+## Journal
+
+- **RedNotebook**:  RedNotebook is a desktop journal that lets you format, tag and search your entries.
+  [Official website](https://rednotebook.app/)
+
 ## Office Suite
 
 - **LibreOffice**: LibreOffice is a private, free and open source office suite.
