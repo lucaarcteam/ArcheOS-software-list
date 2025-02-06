@@ -66,6 +66,9 @@ The complete list in alphabetical order.
 - **R**: R is a free software environment for statistical computing and graphics.  
   [Official website](https://www.r-project.org/)
 
+- **RedNotebook**:  RedNotebook is a desktop journal that lets you format, tag and search your entries.
+  [Official website](https://rednotebook.app/)
+
 - **Thunderbird**: Thunderbird is a free email application that's easy to set up and customize.
   [Official website](https://www.thunderbird.net/en-US/)
 
