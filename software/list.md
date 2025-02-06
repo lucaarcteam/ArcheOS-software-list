@@ -30,6 +30,9 @@ The complete list in alphabetical order.
 - **LibreOffice**: LibreOffice is a private, free and open source office suite.
   [Official website](https://www.libreoffice.org/)
 
+- **LibreCAD**: LibreCAD is a free Open Source CAD application.
+  [Official website](https://librecad.org/)
+
 - **MeshLab**: A powerful tool for processing and editing 3D clouds and meshes.  
   [Official website](https://www.meshlab.net/)
 
