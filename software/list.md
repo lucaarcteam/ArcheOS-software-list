@@ -33,6 +33,9 @@ The complete list in alphabetical order.
 - **LibreCAD**: LibreCAD is a free Open Source CAD application.
   [Official website](https://librecad.org/)
 
+- **MakeHuman**: MakeHuman is a free and open source 3D computer graphics middleware designed for the prototyping of photorealistic humanoids.  
+  [Official website](https://static.makehumancommunity.org/)
+
 - **MeshLab**: A powerful tool for processing and editing 3D clouds and meshes.  
   [Official website](https://www.meshlab.net/)
 
