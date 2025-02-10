@@ -62,7 +62,13 @@ Here below is a list of software divided by categories. If you prefer, there is 
 
 ### 3. Outreach and Science Communication
 
-- [3D models](software/outreach_3d_models.md)
+#### 3D Models
+
+- [Finds and Structures](software/outreach_3d_models.md)
+
+#### Server Management
+
+- [FTP](software/ftp.md)
 
 ### 4. Cultural Heritage Valorization
 
