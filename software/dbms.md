@@ -11,3 +11,9 @@ A list of open-source DBMS (DataBase Management System).
 
 - **PostgreSQL**: PostgreSQL is a powerful, open source object-relational database system.  
   [Official website](https://www.postgresql.org/)
+
+  
+## Geospatial Data Extension
+
+- **PostGIS**: PostGIS extends the capabilities of the PostgreSQL relational database by adding support for storing, indexing, and querying geospatial data.  
+  [Official website](https://postgis.net/)
