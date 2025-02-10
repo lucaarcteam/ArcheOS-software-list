@@ -51,9 +51,6 @@ The complete list in alphabetical order.
 - **Okular**: Okular allows you to read PDF documents, comics and EPub books, browse images, visualize Markdown documents, and much more.
   [Official website](https://okular.kde.org/)
 
-- **OrtogOnBlender**: OrtogOnBlender is an orthognathic surgery planning add-on for Blender, useful for FFA (Forensic Facial Approximation).  
-  [Official website](http://www.ciceromoraes.com.br/doc/en/OrtogOnBlender/)
-
 - **OpenDroneMap**: A platform for processing drone images and creating 3D models.  
   [Official website](https://www.opendronemap.org/)
 
@@ -62,6 +59,9 @@ The complete list in alphabetical order.
 
 - **OpenMVS**: OpenMVS (Multi-View Stereo) is a library for computer-vision scientists and especially targeted to the Multi-View Stereo reconstruction community.
   [Official website](https://cdcseacave.github.io/)
+
+- **OrtogOnBlender**: OrtogOnBlender is an orthognathic surgery planning add-on for Blender, useful for FFA (Forensic Facial Approximation).  
+  [Official website](http://www.ciceromoraes.com.br/doc/en/OrtogOnBlender/)
 
 - **ParaView**: ParaView is an open-source multiple-platform application for interactive, scientific visualization.
   [Official website](https://www.paraview.org/)
