@@ -60,6 +60,9 @@ The complete list in alphabetical order.
 - **ParaView**: ParaView is an open-source multiple-platform application for interactive, scientific visualization.
   [Official website](https://www.paraview.org/)
 
+- **PostGIS**: PostGIS extends the capabilities of the PostgreSQL relational database by adding support for storing, indexing, and querying geospatial data.  
+  [Official website](https://postgis.net/)
+
 - **PostgreSQL**: PostgreSQL is a powerful, open source object-relational database system.  
   [Official website](https://www.postgresql.org/)
 
