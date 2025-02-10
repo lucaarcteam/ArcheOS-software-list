@@ -10,7 +10,10 @@ The complete list in alphabetical order.
   [Official website](https://www.blender.org/)
 
 - **CloudCompare**: An open-source 3D point cloud and mesh processing software, ideal for LiDAR data and photogrammetric point clouds.  
-  [Official website](https://www.cloudcompare.org/) 
+  [Official website](https://www.cloudcompare.org/)
+
+- **FileZilla**: FileZilla is a free FTP solution for both client and server. Filezilla is open source software distributed free of charge. 
+  [Official website](https://filezilla-project.org/)
 
 - **FreeCAD**: FreeCAD is an open-source parametric 3D modeler (CAD), with BIM extensions.
   [Official website](https://www.freecad.org/)
