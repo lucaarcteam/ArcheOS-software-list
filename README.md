@@ -66,6 +66,10 @@ Here below is a list of software divided by categories. If you prefer, there is 
 
 - [Finds and Structures](software/outreach_3d_models.md)
 
+#### Layouts
+
+- [Raster Graphics](software/raster.md)
+
 #### Presentations
 
 - [Slide Presentation](software/presentation.md)
