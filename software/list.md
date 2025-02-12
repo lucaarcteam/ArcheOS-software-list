@@ -31,7 +31,10 @@ The complete list in alphabetical order.
   [Official website](https://www.humanos.cnrs.fr/)
 
 - **impress.js**: impress.js is a presentation framework based on the power of CSS3 transforms and transitions in modern browsers.  
-  [Official website](https://impress.js.org/#/bored) 
+  [Official website](https://impress.js.org/#/bored)
+
+- **Inkscape**: Inkscape is professional vector graphics software which runs on Linux, Mac OS X and Windows desktop computers.
+  [Official website](https://inkscape.org/)
 
 - **Invesalius**: Open source software for reconstruction of computed tomography and magnetic ressonance images.  
   [Official website](https://invesalius.github.io/)
