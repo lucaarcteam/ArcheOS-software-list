@@ -69,6 +69,7 @@ Here below is a list of software divided by categories. If you prefer, there is 
 #### Layouts
 
 - [Raster Graphics](software/raster.md)
+- [Vector Graphics](software/vector.md)
 
 #### Presentations
 
