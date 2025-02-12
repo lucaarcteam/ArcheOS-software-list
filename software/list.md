@@ -18,6 +18,9 @@ The complete list in alphabetical order.
 - **FreeCAD**: FreeCAD is an open-source parametric 3D modeler (CAD), with BIM extensions.
   [Official website](https://www.freecad.org/)
 
+- **GIMP**: GIMP is a cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems.  
+  [Official website](https://www.gimp.org/)
+
 - **GRASS GIS**: GRASS GIS is a powerful computational engine for raster, vector, and geospatial processing.  
   [Official website](https://grass.osgeo.org/)
 
