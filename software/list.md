@@ -36,8 +36,9 @@ The complete list in alphabetical order.
 - **Inkscape**: Inkscape is professional vector graphics software which runs on Linux, Mac OS X and Windows desktop computers.
   [Official website](https://inkscape.org/)
 
-- **Invesalius**: Open source software for reconstruction of computed tomography and magnetic ressonance images.  
-  [Official website](https://invesalius.github.io/)
+- **InVesalius**: Open source software for reconstruction of computed tomography and magnetic ressonance images. <br>
+  [Official website](https://invesalius.github.io/)   <br>
+  [Screenshot](.././images/invesalius_similaun_mummy_extracting_bones_arc-team.png)
 
 - **LibreOffice**: LibreOffice is a private, free and open source office suite.
   [Official website](https://www.libreoffice.org/)
