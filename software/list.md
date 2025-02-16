@@ -3,11 +3,11 @@
 The complete list in alphabetical order.
 
 
-- **3DHOP**: 3DHOP (3D Heritage Online Presenter) is an open-source framework for the creation of interactive Web presentations of high-resolution 3D models, oriented to the Cultural Heritage field.  
-  [Official website](https://3dhop.net/)
+- **3DHOP**: 3DHOP (3D Heritage Online Presenter) is an open-source framework for the creation of interactive Web presentations of high-resolution 3D models, oriented to the Cultural Heritage field. <br>
+[Official website](https://3dhop.net/)
 
-- **Blender**: Blender is a free and open-source 3D computer graphics software tool.  
-  [Official website](https://www.blender.org/)
+- **Blender**: Blender is a free and open-source 3D computer graphics software tool. <br>
+[Official website](https://www.blender.org/)
 
 - **CloudCompare**: An open-source 3D point cloud and mesh processing software, ideal for LiDAR data and photogrammetric point clouds.  
   [Official website](https://www.cloudcompare.org/)
