@@ -39,7 +39,10 @@ The complete list in alphabetical order.
 
 - **InVesalius**: Open source software for reconstruction of computed tomography and magnetic ressonance images. <br>
   [Official website](https://invesalius.github.io/)   <br>
-  [Screenshot](.././images/invesalius_similaun_mummy_extracting_bones_arc-team.png)
+  Screenshots: <br>
+  <a href=".././images/invesalius_similaun_mummy_extracting_bones_arc-team.png">
+    <img src=".././images/invesalius_similaun_mummy_extracting_bones_arc-team.png?raw=true" alt="Screenshot" width="200"/>
+  </a>
 
 - **LibreOffice**: LibreOffice is a private, free and open source office suite.
   [Official website](https://www.libreoffice.org/)
