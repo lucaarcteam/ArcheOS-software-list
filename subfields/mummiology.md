@@ -6,4 +6,4 @@ A list of open-source software for mummiology.
 
 - **InVesalius**: Open source software for reconstruction of computed tomography and magnetic ressonance images. <br>
   [Official website](https://invesalius.github.io/)   <br>
-  [![Screenshot](.././images/invesalius_similaun_mummy_extracting_bones_arc-team.png?raw=true)](.././images/invesalius_similaun_mummy_extracting_bones_arc-team.png)
+  [![Screenshot ridotto](.././images/invesalius_similaun_mummy_extracting_bones_arc-team.png?raw=true)](.././images/invesalius_similaun_mummy_extracting_bones_arc-team.png)
