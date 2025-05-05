@@ -47,6 +47,9 @@ The complete list in alphabetical order.
     <img src=".././images/invesalius_similaun_mummy_extracting_bones_arc-team.png?raw=true" alt="Screenshot" width="200"/>
   </a>
 
+- **Krename**: KRename is a very powerful batch file renamer which can rename a list of files based on a set of expressions.
+  [Official website](https://apps.kde.org/krename/))
+
 - **LibreOffice**: LibreOffice is a private, free and open source office suite.
   [Official website](https://www.libreoffice.org/)
 
