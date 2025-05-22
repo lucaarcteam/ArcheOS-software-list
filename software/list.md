@@ -118,4 +118,4 @@ The complete list in alphabetical order.
   [Official website](https://tops.iosa.it/)
 
 - **Zotero**: Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research. <br>
-  [Official website](https://xournalpp.github.io/](https://www.zotero.org/)
+  [Official website](https://www.zotero.org/)
