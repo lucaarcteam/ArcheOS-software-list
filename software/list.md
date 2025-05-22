@@ -117,5 +117,5 @@ The complete list in alphabetical order.
 - **Total Open Station**: Total Open Station (TOPS) downloads survey data from total stations on your computer, from almost any operating system.  
   [Official website](https://tops.iosa.it/)
 
-- **Zotero**: Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research.
+- **Zotero**: Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research. <br>
   [Official website](https://xournalpp.github.io/](https://www.zotero.org/)
