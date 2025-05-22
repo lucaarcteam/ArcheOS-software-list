@@ -29,7 +29,11 @@ The complete list in alphabetical order.
   [Official website](https://grass.osgeo.org/)
 
 - **gImageReader**: GUI for Tesseract  
-  [Official website](https://github.com/manisandro/gImageReader)
+  [Official website](https://github.com/manisandro/gImageReader) <br>
+  Screenshots: <br>
+  <a href=".././images/gimagereader_tesseract_ocr_arc-team.png">
+      <img src=".././images/gimagereader_tesseract_ocr_arc-team.png?raw=true" alt="Screenshot" width="200"/>
+  </a>
 
 - **HumanOS**: HumanOS is an open source nomadic software database for physical anthropology and archaeology.  
   [Official website](https://www.humanos.cnrs.fr/)
