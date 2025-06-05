@@ -106,7 +106,7 @@ The complete list in alphabetical order.
 
 - **QGIS**: QuantumGIS, or simply QGIS, is a powerful and user-friendly GIS.  
   [Official website](https://qgis.org/) <br>
-  ```***QGIS Plugins***:```
+- **QGIS Plugins**: QGIS Plugins useful for archaeology
   -Time Manager
 
 - **R**: R is a free software environment for statistical computing and graphics.  
