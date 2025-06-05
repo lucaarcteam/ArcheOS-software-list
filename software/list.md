@@ -36,8 +36,12 @@ The complete list in alphabetical order.
   </a>
 
 - **HumanOS**: HumanOS is an open source nomadic software database for physical anthropology and archaeology.  
-  [Official website](https://www.humanos.cnrs.fr/)
-
+  [Official website](https://www.humanos.cnrs.fr/) <br>
+  Screenshots: <br>
+  <a href=".././images/humanos_grave_26_analysis_arc-team.png">
+      <img src=".././images/humanos_grave_26_analysis_arc-team.png?raw=true" alt="Screenshot" width="200"/>
+  </a>
+  
 - **impress.js**: impress.js is a presentation framework based on the power of CSS3 transforms and transitions in modern browsers.  
   [Official website](https://impress.js.org/#/bored)
 
