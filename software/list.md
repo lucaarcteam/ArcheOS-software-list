@@ -106,12 +106,12 @@ The complete list in alphabetical order.
 
 - **QGIS**: QuantumGIS, or simply QGIS, is a powerful and user-friendly GIS.  
   [Official website](https://qgis.org/) <br>
-- **QGIS Plugins**: QGIS Plugins useful for archaeology
+- **QGIS Plugins**: QGIS Plugins useful for archaeology <br>
   -***Time Manager***: TimeManager adds time controls to QGIS. <br>
   [Official website](https://plugins.qgis.org/plugins/timemanager/) <br>
     Screenshots: <br>
-  <a href=".././images/webodm_sfm_visualizing_3d_model_arc-team.png">
-      <img src=".././images/webodm_sfm_visualizing_3d_model_arc-team.png?raw=true" alt="Screenshot" width="200"/>
+  <a href=".././images/qgis_plugin_time_manager_submerged_medieval_forest_evolution_arc-team.png">
+      <img src=".././images/qgis_plugin_time_manager_submerged_medieval_forest_evolution_arc-team.png?raw=true" alt="Screenshot" width="200"/>
   </a>
 
 - **R**: R is a free software environment for statistical computing and graphics.  
