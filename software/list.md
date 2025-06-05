@@ -119,7 +119,11 @@ The complete list in alphabetical order.
   [Official website](https://github.com/tesseract-ocr)
 
 - **Total Open Station**: Total Open Station (TOPS) downloads survey data from total stations on your computer, from almost any operating system.  
-  [Official website](https://tops.iosa.it/)
+  [Official website](https://tops.iosa.it/)<br>
+  Screenshots: <br>
+  <a href=".././images/totalopenstation_downloading_data_arc-team.png">
+      <img src=".././images/totalopenstation_downloading_data_arc-team.png?raw=true" alt="Screenshot" width="200"/>
+  </a>
 
 - **Zotero**: Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research. <br>
   [Official website](https://www.zotero.org/) <br>
