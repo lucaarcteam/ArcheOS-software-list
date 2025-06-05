@@ -51,6 +51,13 @@ The complete list in alphabetical order.
     <img src=".././images/invesalius_similaun_mummy_extracting_bones_arc-team.png?raw=true" alt="Screenshot" width="200"/>
   </a>
 
+- **Kate**: Kate is software to view and edit text files. <br>
+[Official website](https://kate-editor.org/)   <br>
+  Screenshots: <br>
+  <a href=".././images/kate_coo_elaboration_arc-team.png">
+    <img src=".././images/kate_coo_elaboration_arc-team.png?raw=true" alt="Screenshot" width="200"/>
+  </a>
+
 - **Krename**: KRename is a very powerful batch file renamer which can rename a list of files based on a set of expressions.
   [Official website](https://apps.kde.org/krename/))
 
