@@ -45,7 +45,7 @@ The complete list in alphabetical order.
   [Official website](https://inkscape.org/)
 
 - **InVesalius**: Open source software for reconstruction of computed tomography and magnetic ressonance images. <br>
-  [Official website](https://invesalius.github.io/)   <br>
+  [Official website](https://invesalius.github.io/) <br>
   Screenshots: <br>
   <a href=".././images/invesalius_similaun_mummy_extracting_bones_arc-team.png">
     <img src=".././images/invesalius_similaun_mummy_extracting_bones_arc-team.png?raw=true" alt="Screenshot" width="200"/>
@@ -118,7 +118,11 @@ The complete list in alphabetical order.
   [Official website](https://www.r-project.org/)
 
 - **RedNotebook**:  RedNotebook is a desktop journal that lets you format, tag and search your entries.
-  [Official website](https://rednotebook.app/)
+  [Official website](https://rednotebook.app/)<br>
+  Screenshots: <br>
+  <a href=".././images/rednotebook_st_romedius_research_arc-team.png">
+    <img src=".././images/rednotebook_st_romedius_research_arc-team.png?raw=true" alt="Screenshot" width="200"/>
+  </a>
 
 - **Thunderbird**: Thunderbird is a free email application that's easy to set up and customize.
   [Official website](https://www.thunderbird.net/en-US/)
