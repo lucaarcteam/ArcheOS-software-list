@@ -14,21 +14,25 @@ Here below is a list of software divided by categories. If you prefer, there is 
 
 - [Structure from Motion](software/sfm.md)
 
-#### Mesh-editing
+#### Database and Data Management
 
-- [Mesh-editing](software/mesh-editing.md)
+- [Database and Data Management](software/dbms.md)
 
 #### GIS and Mapping
 
 - [GIS and Mapping](/software/gis.md)
 
-#### Database and Data Management
-
-- [Database and Data Management](software/dbms.md)
-
 #### Hardware
 
 - [Total Station](software/total_station.md)
+
+#### Mesh-editing
+
+- [Mesh-editing](software/mesh-editing.md)
+
+#### Text-editing
+
+- [Text-editing](software/text-editing.md)
 
 ### 2. Research
 
