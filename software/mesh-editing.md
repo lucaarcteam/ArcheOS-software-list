@@ -1,8 +1,6 @@
-# 3D documentation
+# Mesh editing 
 
-A list of open-source software for 3D documentation.
-
-## Mesh editing 
+A list of open-source software for 3D mesh-editing.
 
 - **CloudCompare**: An open-source 3D point cloud and mesh processing software, ideal for LiDAR data and photogrammetric point clouds. <br>
 [Official website](https://www.cloudcompare.org/) 
