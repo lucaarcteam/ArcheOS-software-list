@@ -84,8 +84,8 @@ The complete list in alphabetical order.
 - **MeshLab**: A powerful tool for processing and editing 3D clouds and meshes.  
   [Official website](https://www.meshlab.net/) <br>
   Screenshots: <br>
-  <a href=".././images/meshlab_piroga_lago_di_tovel_sfm_webodm_1cm.png">
-    <img src=".././images/meshlab_piroga_lago_di_tovel_sfm_webodm_1cm.png?raw=true" alt="Screenshot" width="200"/>
+  <a href=".././images/meshlab_piroga_lago_di_tovel_sfm_webodm_1cm_arc-team.png">
+    <img src=".././images/meshlab_piroga_lago_di_tovel_sfm_webodm_1cm_arc-team.png?raw=true" alt="Screenshot" width="200"/>
   </a>
 
 - **Meshroom**: Meshroom is a free, open-source 3D Reconstruction Software based on the AliceVision Photogrammetric Computer Vision framework.
