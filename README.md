@@ -32,7 +32,8 @@ Here below is a list of software divided by categories. If you prefer, there is 
 
 #### Utilities
 
-- [Text-editing](software/text-editing.md)
+- [Image viewers](software/utilities.md)
+- [Text-editing](software/utilities.md)
 
 ### 2. Research
 
