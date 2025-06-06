@@ -14,4 +14,8 @@ A list of open-source Library Management software.
 ## Library
 
 - **Tellico**: Tellico is a Collection management software, free and simple. <br>
-  [Official website](https://tellico-project.org/)
+  [Official website](https://tellico-project.org/) <br>
+  Screenshots: <br>
+  <a href=".././images/tellico_library_management_arc-team.png">
+      <img src=".././images/tellico_library_management_arc-team.png?raw=true" alt="Screenshot" width="200"/>
+  </a>
