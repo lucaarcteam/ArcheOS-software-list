@@ -1,6 +1,10 @@
-# Text editing 
+# Utilities
 
-A list of open-source software for text editing and coordinates elaboration.
+A list of open-source utilities for minor operations of the archaeological work-flow.
+
+## Text editing 
+
+A list of open-source software for text editing (mainly for coordinates elaboration).
 
 - **Kate**: Kate is software to view and edit text files. <br>
 [Official website](https://kate-editor.org/)   <br>
