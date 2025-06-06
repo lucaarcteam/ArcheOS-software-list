@@ -22,6 +22,13 @@ The complete list in alphabetical order.
 - **FreeCAD**: FreeCAD is an open-source parametric 3D modeler (CAD), with BIM extensions.
   [Official website](https://www.freecad.org/)
 
+- **Geequie**: Geeqie is a free open software image viewer and organiser program. <br>
+[Official website](https://www.geeqie.org/) <br>
+  Screenshots: <br>
+  <a href=".././images/geequie_renaming_pictures_arc-team.png">
+    <img src=".././images/geequie_renaming_pictures_arc-team.png?raw=true" alt="Screenshot" width="200"/>
+  </a>
+
 - **GIMP**: GIMP is a cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems.  
   [Official website](https://www.gimp.org/)
 
