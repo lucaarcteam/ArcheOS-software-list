@@ -30,7 +30,7 @@ Here below is a list of software divided by categories. If you prefer, there is 
 
 - [Mesh-editing](software/mesh-editing.md)
 
-#### Text-editing
+#### Utilities
 
 - [Text-editing](software/text-editing.md)
 
