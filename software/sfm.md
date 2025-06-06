@@ -5,7 +5,11 @@ A list of open-source software for 3D documentation.
 ## Structure from Motion
 
 - **Meshroom**: Meshroom is a free, open-source 3D Reconstruction Software based on the AliceVision Photogrammetric Computer Vision framework. <br>
-  [Official website](https://alicevision.org/)
+  [Official website](https://alicevision.org/) <br>
+  Screenshots: <br>
+  <a href=".././images/meshroom_3d_documentation_arc-team.png">
+    <img src=".././images/meshroom_3d_documentation_arc-team.png?raw=true" alt="Screenshot" width="200"/>
+  </a>
 
 - **OpenDroneMap**: A platform for processing drone images and creating 3D models. <br>
   [Official website](https://www.opendronemap.org/)
