@@ -117,6 +117,10 @@ The complete list in alphabetical order.
 
 - **QGIS**: QuantumGIS, or simply QGIS, is a powerful and user-friendly GIS.  
   [Official website](https://qgis.org/) <br>
+  Screenshots: <br>
+  <a href=".././images/qgis_simple_gis_mining_archaeology_arc-team.png">
+      <img src=".././images/qgis_simple_gis_mining_archaeology_arc-team.png?raw=true" alt="Screenshot" width="200"/>
+  </a>
 - **QGIS Plugins**: QGIS Plugins useful for archaeology <br>
   -***Time Manager***: TimeManager adds time controls to QGIS. <br>
   [Official website](https://plugins.qgis.org/plugins/timemanager/) <br>
