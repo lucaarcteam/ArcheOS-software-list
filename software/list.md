@@ -157,7 +157,10 @@ The complete list in alphabetical order.
 
 - **Xournal++**: Xournal++ is an open-source and cross-platform note-taking software that is fast, flexible, and functional.
   [Official website](https://xournalpp.github.io/)
-  [Official website](https://github.com/tesseract-ocr)
+  Screenshots: <br>
+  <a href=".././images/xournal++_editing_cnr_publication_arc-team.png">
+      <img src=".././images/xournal++_editing_cnr_publication_arc-teampng?raw=true" alt="Screenshot" width="200"/>
+  </a>
 
 - **Total Open Station**: Total Open Station (TOPS) downloads survey data from total stations on your computer, from almost any operating system.  
   [Official website](https://tops.iosa.it/)<br>
