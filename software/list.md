@@ -156,10 +156,10 @@ The complete list in alphabetical order.
 - **Tesseract**: Tesseract is an optical character recognition engine for various operating systems. It needs the extension for the language and for the spellcheck (e.g. for Italian tesseract-ocr-ita and hunspell-it)
 
 - **Xournal++**: Xournal++ is an open-source and cross-platform note-taking software that is fast, flexible, and functional.<br>
-  [Official website](https://xournalpp.github.io/)<br>
+  [Official website](https://xournalpp.github.io/)) <br>
   Screenshots: <br>
   <a href=".././images/xournal++_editing_cnr_publication_arc-team.png">
-      <img src=".././xournal++_editing_cnr_publication_arc-team.png?raw=true" alt="Screenshot" width="200"/>
+      <img src=".././images/xournal++_editing_cnr_publication_arc-team.png?raw=true" alt="Screenshot" width="200"/>
   </a>
 
 - **Total Open Station**: Total Open Station (TOPS) downloads survey data from total stations on your computer, from almost any operating system.  
