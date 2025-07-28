@@ -159,7 +159,7 @@ The complete list in alphabetical order.
   [Official website](https://xournalpp.github.io/)
   Screenshots: <br>
   <a href=".././images/xournal++_editing_cnr_publication_arc-team.png">
-      <img src=".././images/xournal++_editing_cnr_publication_arc-teampng?raw=true" alt="Screenshot" width="200"/>
+      <img src=".././images/xournal++_editing_cnr_publication_arc-teampng.png?raw=true" alt="Screenshot" width="200"/>
   </a>
 
 - **Total Open Station**: Total Open Station (TOPS) downloads survey data from total stations on your computer, from almost any operating system.  
