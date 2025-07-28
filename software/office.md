@@ -23,5 +23,9 @@ A list of open-source office software.
 - **Okular**: Okular allows you to read PDF documents, comics and EPub books, browse images, visualize Markdown documents, and much more.
   [Official website](https://okular.kde.org/)
 
-- **Xournal++**: Xournal++ is an open-source and cross-platform note-taking software that is fast, flexible, and functional.
-  [Official website](https://xournalpp.github.io/)
+- **Xournal++**: Xournal++ is an open-source and cross-platform note-taking software that is fast, flexible, and functional.<br>
+  [Official website](https://xournalpp.github.io/)) <br>
+  Screenshots: <br>
+  <a href=".././images/xournal++_editing_cnr_publication_arc-team.png">
+      <img src=".././images/xournal++_editing_cnr_publication_arc-team.png?raw=true" alt="Screenshot" width="200"/>
+  </a>
