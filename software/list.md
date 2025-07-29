@@ -136,11 +136,18 @@ The complete list in alphabetical order.
 - **R**: R is a free software environment for statistical computing and graphics.  
   [Official website](https://www.r-project.org/)
 
-- **RedNotebook**:  RedNotebook is a desktop journal that lets you format, tag and search your entries.
+- **RedNotebook**: RedNotebook is a desktop journal that lets you format, tag and search your entries.
   [Official website](https://rednotebook.app/)<br>
   Screenshots: <br>
   <a href=".././images/rednotebook_st_romedius_research_arc-team.png">
     <img src=".././images/rednotebook_st_romedius_research_arc-team.png?raw=true" alt="Screenshot" width="200"/>
+  </a>
+
+- **Strut**: Strut i a GUI / Authoring Tool for ImpressJS and Bespoke.js.
+  [Official website](https://strut.io/)<br>
+  Screenshots: <br>
+  <a href=".././images/strut_wmsc2025_presentation_arc-team.png">
+    <img src=".././images/strut_wmsc2025_presentation_arc-team.png?raw=true" alt="Screenshot" width="200"/>
   </a>
 
 - **Thunderbird**: Thunderbird is a free email application that's easy to set up and customize.
