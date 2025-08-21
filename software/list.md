@@ -22,8 +22,8 @@ The complete list in alphabetical order.
 - **Flameshot**: Powerful, yet simple to use open-source screenshot software. <br>
   [Official website](https://flameshot.org/) <br>
   Screenshots: <br>
-  <a href=".././images/invesalius_similaun_mummy_extracting_bones_arc-team.png">
-    <img src=".././images/invesalius_similaun_mummy_extracting_bones_arc-team.png?raw=true" alt="Screenshot" width="200"/>
+  <a href=".././images/flameshot_screenshot_editing_submerged_forest_tovel.png">
+    <img src=".././images/flameshot_screenshot_editing_submerged_forest_tovel.png?raw=true" alt="Screenshot" width="200"/>
   </a>
 
 - **FreeCAD**: FreeCAD is an open-source parametric 3D modeler (CAD), with BIM extensions.
