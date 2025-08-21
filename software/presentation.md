@@ -13,3 +13,12 @@ A list of open-source software for Slide Presentations.
   <a href=".././images/strut_wmsc2025_presentation_arc-team.png">
     <img src=".././images/strut_wmsc2025_presentation_arc-team.png?raw=true" alt="Screenshot" width="200"/>
   </a>
+
+  ## Screenshot utilities
+
+  - **Flameshot**: Powerful, yet simple to use open-source screenshot software. <br>
+  [Official website](https://flameshot.org/) <br>
+  Screenshots: <br>
+  <a href=".././images/flameshot_screenshot_editing_submerged_forest_tovel.png">
+    <img src=".././images/flameshot_screenshot_editing_submerged_forest_tovel.png?raw=true" alt="Screenshot" width="200"/>
+  </a>
