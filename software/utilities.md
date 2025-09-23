@@ -2,6 +2,18 @@
 
 A list of open-source utilities for minor operations of the archaeological work-flow.
 
+
+## Files Sharing
+
+A list of open-source File Sharing tools.
+
+- **LocalSend**: LibreCAD is a free, Open Source, cross platform software to share files to nearby devices. <br>
+  [Official website](https://localsend.org/) <br>
+  Screenshots: <br>
+  <a href=".././images/local_send_photos_download_arc-team.png">
+    <img src=".././images/local_send_photos_download_arc-team.png?raw=true" alt="Screenshot" width="200"/>
+  </a>
+
 ## Image Viewers
 
 A list of open-source Image Viewers and Organizers (mainly for photo renomination).
