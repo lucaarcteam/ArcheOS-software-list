@@ -13,10 +13,10 @@ The complete list in alphabetical order.
 - **Blender**: Blender is a free and open-source 3D computer graphics software tool. <br>
 [Official website](https://www.blender.org/)
 
-- **CloudCompare**: An open-source 3D point cloud and mesh processing software, ideal for LiDAR data and photogrammetric point clouds.  
+- **CloudCompare**: An open-source 3D point cloud and mesh processing software, ideal for LiDAR data and photogrammetric point clouds.  <br> 
   [Official website](https://www.cloudcompare.org/)
 
-- **FileZilla**: FileZilla is a free FTP solution for both client and server. Filezilla is open source software distributed free of charge. 
+- **FileZilla**: FileZilla is a free FTP solution for both client and server. Filezilla is open source software distributed free of charge.  <br>
   [Official website](https://filezilla-project.org/)
 
 - **Flameshot**: Powerful, yet simple to use open-source screenshot software. <br>
@@ -26,7 +26,7 @@ The complete list in alphabetical order.
     <img src=".././images/flameshot_screenshot_editing_submerged_forest_tovel.png?raw=true" alt="Screenshot" width="200"/>
   </a>
 
-- **FreeCAD**: FreeCAD is an open-source parametric 3D modeler (CAD), with BIM extensions.
+- **FreeCAD**: FreeCAD is an open-source parametric 3D modeler (CAD), with BIM extensions. <br>
   [Official website](https://www.freecad.org/)
 
 - **Geequie**: Geeqie is a free open software image viewer and organiser program. <br>
@@ -76,16 +76,16 @@ The complete list in alphabetical order.
     <img src=".././images/kate_coo_elaboration_arc-team.png?raw=true" alt="Screenshot" width="200"/>
   </a>
 
-- **Krename**: KRename is a very powerful batch file renamer which can rename a list of files based on a set of expressions.
+- **Krename**: KRename is a very powerful batch file renamer which can rename a list of files based on a set of expressions. <br>
   [Official website](https://apps.kde.org/krename/))
 
-- **LibreOffice**: LibreOffice is a private, free and open source office suite.
+- **LibreOffice**: LibreOffice is a private, free and open source office suite. <br>
   [Official website](https://www.libreoffice.org/)
 
-- **LibreCAD**: LibreCAD is a free Open Source CAD application.
+- **LibreCAD**: LibreCAD is a free Open Source CAD application. <br>
 
-- **LocalSend**: LibreCAD is a free, Open Source, cross platform software to share files to nearby devices.
-  [Official website](https://localsend.org/)
+- **LocalSend**: LibreCAD is a free, Open Source, cross platform software to share files to nearby devices. <br>
+  [Official website](https://localsend.org/) <br>
   Screenshots: <br>
   <a href=".././images/local_send_photos_download_arc-team.png">
     <img src=".././images/local_send_photos_download_arc-team.png?raw=true" alt="Screenshot" width="200"/>
