@@ -83,7 +83,13 @@ The complete list in alphabetical order.
   [Official website](https://www.libreoffice.org/)
 
 - **LibreCAD**: LibreCAD is a free Open Source CAD application.
-  [Official website](https://librecad.org/)
+
+- **LocalSend**: LibreCAD is a free, Open Source, cross platform software to share files to nearby devices.
+  [Official website](https://localsend.org/)
+  Screenshots: <br>
+  <a href=".././images/local_send_photos_download_arc-team.png">
+    <img src=".././images/local_send_photos_download_arc-team.png?raw=true" alt="Screenshot" width="200"/>
+  </a>
 
 - **MakeHuman**: MakeHuman is a free and open source 3D computer graphics middleware designed for the prototyping of photorealistic humanoids.  
   [Official website](https://static.makehumancommunity.org/)
