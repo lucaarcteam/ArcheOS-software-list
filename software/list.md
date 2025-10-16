@@ -69,7 +69,11 @@ The complete list in alphabetical order.
   [Official website](https://impress.js.org/#/bored)
 
 - **Inkscape**: Inkscape is professional vector graphics software which runs on Linux, Mac OS X and Windows desktop computers.
-  [Official website](https://inkscape.org/)
+  [Official website](https://inkscape.org/) <br>
+  Screenshots: <br>
+  <a href=".././images/inkscape_drena_relazione_scientifica_arc-team.png">
+      <img src=".././images/inkscape_drena_relazione_scientifica_arc-team.png?raw=true" alt="Screenshot" width="200"/>
+  </a>
 
 - **InVesalius**: Open source software for reconstruction of computed tomography and magnetic ressonance images. <br>
   [Official website](https://invesalius.github.io/) <br>
