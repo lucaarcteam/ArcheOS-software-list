@@ -96,6 +96,7 @@ Here below is a list of software divided by categories. If you prefer, there is 
 ## Archaeological subfields
 
 - [Archaeoanthropology](subfields/archaeoanthropology.md)
+- [Archaeozoology](subfields/archaeozoology.md)
 - [Forensic Archaeology](subfields/forensic_archaeology.md)
 - [Mummiology](subfields/mummiology.md)
 - [Underwater Archaeology](subfields/underwater_archaeology.md)
