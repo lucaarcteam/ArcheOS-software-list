@@ -10,7 +10,7 @@ The complete list in alphabetical order.
       <img src=".././images/3dhop_st_valentine_ffa_arc-team.png?raw=true" alt="Screenshot" width="200"/>
   </a>
 
-- **AnythingLLM**: AnythingLLM Desktop ships with everything you need to leverage AI locally with no setup or code. 
+- **AnythingLLM**: AnythingLLM Desktop ships with everything you need to leverage AI locally with no setup or code. <br> 
   [Official website](https://anythingllm.com/)
   Screenshots: <br>
   <a href=".././images/anythingllm_ai_archaeological_assistent_on_megalithism.png">
