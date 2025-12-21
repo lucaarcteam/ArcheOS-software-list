@@ -41,6 +41,8 @@ Here below is a list of software divided by categories. If you prefer, there is 
 
 #### Artificial Intelligence
 
+- [AI Assistent](software/ai_assistent.md)
+
 #### 3D Reconstruction
 
 - [3D modeling](software/3d_modeling.md)
