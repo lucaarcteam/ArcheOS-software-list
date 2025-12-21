@@ -10,6 +10,13 @@ The complete list in alphabetical order.
       <img src=".././images/3dhop_st_valentine_ffa_arc-team.png?raw=true" alt="Screenshot" width="200"/>
   </a>
 
+- **AnythingLLM**: AnythingLLM Desktop ships with everything you need to leverage AI locally with no setup or code. 
+  [Official website](https://anythingllm.com/)
+  Screenshots: <br>
+  <a href=".././images/anythingllm_ai_archaeological_assistent_on_megalithism.png">
+    <img src=".././images/anythingllm_ai_archaeological_assistent_on_megalithism.png?raw=true" alt="Screenshot" width="200"/>
+  </a>
+
 - **Arc-Team Tools**: Arc-Team Tools is a series of small, open-source applications for archaeology developed by Arc-Team. <br>
   [Official website](https://github.com/lucaarcteam/Arc-Team-Tools) <br>
   
