@@ -11,5 +11,5 @@ A list of open-source software and models to build your AI Agents.
     <img src=".././images/anythingllm_ai_archaeological_assistent_on_megalithism.png?raw=true" alt="Screenshot" width="200"/>
   </a>
 
-  - **LocalAGI**: LocalAGI is a powerful, self-hostable AI Agent platform that allows you to design AI automations without writing code.  
+- **LocalAGI**: LocalAGI is a powerful, self-hostable AI Agent platform that allows you to design AI automations without writing code.  
   [Official website](https://github.com/mudler/LocalAGI)
