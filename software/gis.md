@@ -13,7 +13,16 @@ A list of open-source GIS (Geographic Information System).
   <a href=".././images/qgis_simple_gis_mining_archaeology_arc-team.png">
       <img src=".././images/qgis_simple_gis_mining_archaeology_arc-team.png?raw=true" alt="Screenshot" width="200"/>
   </a>
+  
 - **QGIS Plugins**: QGIS Plugins useful for archaeology <br>
+
+  -***Azimuth Measurement Map Tool***: Measure azimuth and distance between two points. <br>
+  [Official website](https://gitlab.com/aaltronav/foss/qgis/plugins/generic/azimuth-measurement) <br>
+    Screenshots: <br>
+  <a href=".././images/qgis_azimuth_measurement_map_tool_aosta_arc-team.png">
+      <img src=".././images/qgis_azimuth_measurement_map_tool_aosta_arc-team.png?raw=true" alt="Screenshot" width="200"/>
+  </a>  
+
   -***Time Manager***: TimeManager adds time controls to QGIS. <br>
   [Official website](https://plugins.qgis.org/plugins/timemanager/) <br>
     Screenshots: <br>
