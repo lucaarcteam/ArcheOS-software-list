@@ -26,6 +26,12 @@ The complete list in alphabetical order.
     <img src=".././images/at_tools_deeper_cleaner.png?raw=true" alt="Screenshot" width="200"/>
   </a>
 
+  -***AT Exif Eraser***: Arc-Team Tool to clean ROV underwater photos in order to perform 3D from SfM techniques. <br>
+    Screenshots: <br>
+  <a href=".././images/at_tools_exif_eraser.png">
+    <img src=".././images/at_tools_exif_eraser.png?raw=true" alt="Screenshot" width="200"/>
+  </a>
+
   -***AT Statistics Basics***: Arc-Team Tool to perform basic staistical calculations and export vector charts (.svg). <br>
     Screenshots: <br>
   <a href=".././images/at_tools_at_statistics_basics_grafico_specie_grotta_del_teschio.png">
