@@ -25,6 +25,7 @@ Here below is a list of software divided by categories. If you prefer, there is 
 #### Hardware
 
 - [Total Station](software/total_station.md)
+- [ROV](software/rov.md) 
 - [Sonar](software/sonar.md)
 
 #### Mesh-editing
