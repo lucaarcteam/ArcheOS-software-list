@@ -150,8 +150,8 @@ The complete list in alphabetical order.
 - **Odyssey.js**: Odyssey.js is an open-source tool that allows you to combine maps, narratives, and other multimedia into a story.
   [Official website](https://cartodb.github.io/odyssey.js/)
   Screenshots: <br>
-  <a href=".././images/meshroom_3d_documentation_arc-team.png">
-    <img src=".././images/meshroom_3d_documentation_arc-team.png?raw=true" alt="Screenshot" width="200"/>
+  <a href=".././images/odyssey_arc-team_r_evolution_webapp.png">
+    <img src=".././images/odyssey_arc-team_r_evolution_webapp.png?raw=true" alt="Screenshot" width="200"/>
   </a>
 
 - **Okular**: Okular allows you to read PDF documents, comics and EPub books, browse images, visualize Markdown documents, and much more.
