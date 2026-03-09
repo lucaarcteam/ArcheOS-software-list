@@ -7,6 +7,13 @@ A list of open-source software for Slide Presentations.
 - **impress.js**: impress.js is a presentation framework based on the power of CSS3 transforms and transitions in modern browsers.  
   [Official website](https://impress.js.org/#/bored)
 
+- **Odyssey.js**: Odyssey.js is an open-source tool that allows you to combine maps, narratives, and other multimedia into a story.
+  [Official website](https://cartodb.github.io/odyssey.js/)
+  Screenshots: <br>
+  <a href=".././images/odyssey_arc-team_r_evolution_webapp.png">
+    <img src=".././images/odyssey_arc-team_r_evolution_webapp.png?raw=true" alt="Screenshot" width="200"/>
+  </a>
+
 - **Strut**: Strut i a GUI / Authoring Tool for ImpressJS and Bespoke.js.
   [Official website](https://strut.io/)<br>
   Screenshots: <br>
@@ -14,7 +21,7 @@ A list of open-source software for Slide Presentations.
     <img src=".././images/strut_wmsc2025_presentation_arc-team.png?raw=true" alt="Screenshot" width="200"/>
   </a>
 
-  ## Screenshot utilities
+## Screenshot utilities
 
   - **Flameshot**: Powerful, yet simple to use open-source screenshot software. <br>
   [Official website](https://flameshot.org/) <br>
