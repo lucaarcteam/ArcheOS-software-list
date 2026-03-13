@@ -77,7 +77,7 @@ The complete list in alphabetical order.
       <img src=".././images/gimagereader_tesseract_ocr_arc-team.png?raw=true" alt="Screenshot" width="200"/>
   </a>
 
-- **Hugin**: [HumanOS is an open source nomadic software database for physical anthropology and archaeology](http://panotools.sourceforge.net/).  
+- **Hugin**: an easy to use cross-platform panoramic imaging toolchain based on Panorama Tools.  
   [Official website](https://hugin.sourceforge.io/) <br>
   Screenshots: <br>
   <a href=".././images/hugin_aerial_pano_arc-team_palafitte_garda.png">
