@@ -32,6 +32,10 @@ Here below is a list of software divided by categories. If you prefer, there is 
 
 - [Mesh-editing](software/mesh-editing.md)
 
+#### Photo-editing
+
+- [Photo-editing](software/photo-editing.md)
+
 #### Utilities
 
 - [File Sharing](software/utilities.md)
