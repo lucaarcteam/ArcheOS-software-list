@@ -6,4 +6,7 @@ A list of open-source software for 3D DICOM (Digital Imaging and COmmunications 
 
 - **InVesalius**: Open source software for reconstruction of computed tomography and magnetic ressonance images. <br>
   [Official website](https://invesalius.github.io/)   <br>
-  [Screenshot](.././images/invesalius_similaun_mummy_extracting_bones_arc-team.png)
+  Screenshots: <br>
+  <a href=".././images/invesalius_similaun_mummy_extracting_bones_arc-team.png">
+    <img src=".././images/invesalius_similaun_mummy_extracting_bones_arc-team.png?raw=true" alt="Screenshot" width="200"/>
+  </a>
