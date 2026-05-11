@@ -44,6 +44,13 @@ The complete list in alphabetical order.
 - **CloudCompare**: An open-source 3D point cloud and mesh processing software, ideal for LiDAR data and photogrammetric point clouds.  <br> 
   [Official website](https://www.cloudcompare.org/)
 
+- **DCMTK**: DCMTK is a collection of libraries and applications implementing large parts the DICOM standard. <br>
+  [Official website](https://dicom.offis.de/dcmtk.php.en) <br>
+  Screenshots: <br>
+  <a href=".././images/dcmtk_arc-team_oetzi_dicom_2021.png">
+    <img src=".././images/dcmtk_arc-team_oetzi_dicom_2021.png?raw=true" alt="Screenshot" width="200"/>
+  </a>  
+
 - **FileZilla**: FileZilla is a free FTP solution for both client and server. Filezilla is open source software distributed free of charge.  <br>
   [Official website](https://filezilla-project.org/)
 
