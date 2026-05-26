@@ -13,7 +13,7 @@ A list of open-source software to play video.
 
 ## Multimedia Player
 
-- **VLC Media Player**: VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.  
+- **VLC Media Player**: VLC is a free and open source cross-platform multimedia player (also 360° video) and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.  
   [Official website](https://www.videolan.org/)<br>
   Screenshots: <br>
   <a href=".././images/vlc_player_arc-team_palafitte_garda.png">
