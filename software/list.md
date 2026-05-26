@@ -272,6 +272,13 @@ The complete list in alphabetical order.
       <img src=".././images/totalopenstation_downloading_data_arc-team.png?raw=true" alt="Screenshot" width="200"/>
   </a>
 
+- **VLC Media Player**: VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.  
+  [Official website](https://www.videolan.org/)<br>
+  Screenshots: <br>
+  <a href=".././images/vlc_player_arc-team_palafitte_garda.png">
+      <img src=".././images/vlc_player_arc-team_palafitte_garda.png?raw=true" alt="Screenshot" width="200"/>
+  </a>
+
 - **WebODM**: Drone Mapping Software (ODM) is a software to generate maps, point clouds, DEMs and 3D models from aerial images, through SfM techniques.<br>
   [Official website](https://www.opendronemap.org/webodm/) <br>
   Screenshots: <br>
