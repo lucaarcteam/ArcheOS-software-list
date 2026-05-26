@@ -96,6 +96,10 @@ Here below is a list of software divided by categories. If you prefer, there is 
 
 ### 4. Cultural Heritage Valorization
 
+#### Video
+
+- [Video Player](software/video_player.md)
+
 ### 5. Miscellanea
 
 - [Office](software/office.md)
