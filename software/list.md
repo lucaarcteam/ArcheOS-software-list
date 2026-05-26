@@ -49,6 +49,13 @@ The complete list in alphabetical order.
   Screenshots: <br>
   <a href=".././images/dcmtk_arc-team_oetzi_dicom_2021.png">
     <img src=".././images/dcmtk_arc-team_oetzi_dicom_2021.png?raw=true" alt="Screenshot" width="200"/>
+  </a>
+
+- **Dragon Player**: Dragon Player is a video player focusing on simplicity instead of features.. <br>
+  [Official website](https://apps.kde.org/dragonplayer/) <br>
+  Screenshots: <br>
+  <a href=".././images/dragon_player_arc-team_palafitte_garda.png">
+    <img src=".././images/dragon_player_arc-team_palafitte_garda.png?raw=true" alt="Screenshot" width="200"/>
   </a>  
 
 - **FileZilla**: FileZilla is a free FTP solution for both client and server. Filezilla is open source software distributed free of charge.  <br>
