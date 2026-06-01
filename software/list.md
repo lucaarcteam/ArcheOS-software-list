@@ -39,7 +39,11 @@ The complete list in alphabetical order.
   </a>
 
 - **Blender**: Blender is a free and open-source 3D computer graphics software tool. <br>
-[Official website](https://www.blender.org/)
+[Official website](https://www.blender.org/) <br>
+  Screenshots: <br>
+  <a href=".././images/blender_arc-team_torre_dei_sicconi.png">
+    <img src=".././images/blender_arc-team_torre_dei_sicconi.png?raw=true" alt="Screenshot" width="200"/>
+  </a>
 
 - **CloudCompare**: An open-source 3D point cloud and mesh processing software, ideal for LiDAR data and photogrammetric point clouds.  <br> 
   [Official website](https://www.cloudcompare.org/)
