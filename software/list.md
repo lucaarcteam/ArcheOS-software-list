@@ -83,7 +83,10 @@ The complete list in alphabetical order.
   </a>
 
 - **GIMP**: GIMP is a cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems.  
-  [Official website](https://www.gimp.org/)
+  [Official website](https://www.gimp.org/) <br>
+  <a href=".././images/gimp_prespective_adjustment_concordia_sagittaria_arc-team.png">
+    <img src=".././images/gimp_prespective_adjustment_concordia_sagittaria_arc-team.png?raw=true" alt="Screenshot" width="200"/>
+  </a>
 
 - **GRASS GIS**: GRASS GIS is a powerful computational engine for raster, vector, and geospatial processing.  
   [Official website](https://grass.osgeo.org/)
