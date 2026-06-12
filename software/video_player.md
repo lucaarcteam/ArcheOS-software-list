@@ -2,6 +2,11 @@
 
 A list of open-source software to play video.
 
+## Video-editing
+
+- **Kdenlive**: Kdenlive is a video editing application with support for many audio and video formats. <br>
+  [Official website](https://kdenlive.org/))
+
 ## Video Player
 
 - **Dragon Player**: Dragon Player is a video player focusing on simplicity instead of features.. <br>
