@@ -140,6 +140,9 @@ The complete list in alphabetical order.
     <img src=".././images/kate_coo_elaboration_arc-team.png?raw=true" alt="Screenshot" width="200"/>
   </a>
 
+- **Kdenlive**: Kdenlive is a video editing application with support for many audio and video formats. <br>
+  [Official website](https://kdenlive.org/))
+
 - **Krename**: KRename is a very powerful batch file renamer which can rename a list of files based on a set of expressions. <br>
   [Official website](https://apps.kde.org/krename/))
 
