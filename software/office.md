@@ -10,8 +10,12 @@ A list of open-source office software.
 
 ## Journal
 
-- **RedNotebook**:  RedNotebook is a desktop journal that lets you format, tag and search your entries.
-  [Official website](https://rednotebook.app/)
+- **RedNotebook**: RedNotebook is a desktop journal that lets you format, tag and search your entries.
+  [Official website](https://rednotebook.app/)<br>
+  Screenshots: <br>
+  <a href=".././images/rednotebook_st_romedius_research_arc-team.png">
+    <img src=".././images/rednotebook_st_romedius_research_arc-team.png?raw=true" alt="Screenshot" width="200"/>
+  </a>
 
 ## Office Suite
 
