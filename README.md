@@ -61,6 +61,7 @@ Here below is a list of software divided by categories. If you prefer, there is 
 #### Graphics
 
 - [Raster Graphics](software/raster.md)
+- [Vector Graphics](software/vector.md)
 - [Voxel Graphics](software/voxel.md)
 
 #### Medical Analysis
