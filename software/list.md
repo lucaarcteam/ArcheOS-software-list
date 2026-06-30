@@ -65,7 +65,14 @@ The complete list in alphabetical order.
     <img src=".././images/dcmtk_arc-team_oetzi_dicom_2021.png?raw=true" alt="Screenshot" width="200"/>
   </a>
 
-- **Dragon Player**: Dragon Player is a video player focusing on simplicity instead of features.. <br>
+- **DendrOS**: DendrOS is a Open Source dendrochronology software developed bay Mauro bernabei (CNR-IBE) and Luca Bezzi (Arc-Team). <br>
+  [Official website](https://github.com/lucaarcteam/DendrOS) <br>
+  Screenshots: <br>
+  <a href=".././images/dendros_arc-team_cnr-ibe_open_source_dendrochronology.png">
+    <img src=".././images/dendros_arc-team_cnr-ibe_open_source_dendrochronology.png?raw=true" alt="Screenshot" width="200"/>
+  </a>  
+
+- **Dragon Player**: Dragon Player is a video player focusing on simplicity instead of features. <br>
   [Official website](https://apps.kde.org/dragonplayer/) <br>
   Screenshots: <br>
   <a href=".././images/dragon_player_arc-team_palafitte_garda.png">
