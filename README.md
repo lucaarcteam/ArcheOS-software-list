@@ -59,6 +59,10 @@ Here below is a list of software divided by categories. If you prefer, there is 
 
 - [Library Management](software/library.md)
 
+### Dendrochronology
+
+- [Dendrochronology](software/dendrochronology.md)
+
 #### Graphics
 
 - [Raster Graphics](software/raster.md)
