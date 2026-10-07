@@ -4,6 +4,10 @@ A collection of open-source software and digital tools for archaeology.
 This repository aims to support researchers, professionals, and enthusiasts in their work by providing an updated list of useful tools.  
 This project is an attempt to restart ArcheOS, the Archaeological Operating System developed by Arc-Team between 2005 and 2015.
 
+## Why you can trust this list
+
+This is not just a curated list: all the selected software is carefully field-tested and regularly used by Arc-Team in its professional projects. The longest-standing tools have been part of our workflow since 2005, the year Arc-Team was founded, and some of them even since 2002, when the working group that would later found the company was already using them.
+
 ## Categories
 
 Here below is a list of software divided by categories. If you prefer, there is also a [complete list in alphabetical order](software/list.md) (with screenshot).
