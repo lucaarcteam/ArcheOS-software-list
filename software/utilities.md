@@ -35,7 +35,14 @@ A list of open-source Image Viewers and Organizers (mainly for photo renominatio
 
 ## Text editing 
 
-A list of open-source software for text editing (mainly for coordinates elaboration).
+A list of open-source software for text editing (mainly for coordinates elaboration and Markdown/AI files).
+
+- **Ghostwriter**: Ghostwriter is a distraction-free and themeable Markdown editor, useful to read and edit the .md files produced by AI (prompts, notes and reports) in archaeological projects, with live HTML preview and export to PDF, HTML, ODT and other formats. <br>
+  [Official website](https://ghostwriter.kde.org/) <br>
+  Screenshots: <br>
+  <a href=".././images/ghostwriter_arc-team_progetto_cristo_valcalda.png">
+    <img src=".././images/ghostwriter_arc-team_progetto_cristo_valcalda.png?raw=true" alt="Screenshot" width="200"/>
+  </a>
 
 - **Kate**: Kate is software to view and edit text files. <br>
 [Official website](https://kate-editor.org/)   <br>

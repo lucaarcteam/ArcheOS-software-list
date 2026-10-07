@@ -1,6 +1,6 @@
 # AI agents
 
-A list of open-source software and models to build your AI Agents.
+A list of open-source software and models to build and interact with your AI Agents.
 
 ## AI Agents platform
 
@@ -16,4 +16,13 @@ A list of open-source software and models to build your AI Agents.
   Screenshots: <br>
   <a href=".././images/localagi_megai_ai_agent_developed_by_arc-team.png">
     <img src=".././images/localagi_megai_ai_agent_developed_by_arc-team.png?raw=true" alt="Screenshot" width="200"/>
+  </a>
+
+## Markdown interface for AI
+
+- **Ghostwriter**: Ghostwriter is a distraction-free and themeable Markdown editor, useful to read and edit the .md files produced by AI (prompts, notes and reports) in archaeological projects, with live HTML preview and export to PDF, HTML, ODT and other formats. <br>
+  [Official website](https://ghostwriter.kde.org/) <br>
+  Screenshots: <br>
+  <a href=".././images/ghostwriter_arc-team_progetto_cristo_valcalda.png">
+    <img src=".././images/ghostwriter_arc-team_progetto_cristo_valcalda.png?raw=true" alt="Screenshot" width="200"/>
   </a>

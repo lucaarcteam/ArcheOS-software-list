@@ -105,6 +105,13 @@ The complete list in alphabetical order.
     <img src=".././images/gimp_prespective_adjustment_concordia_sagittaria_arc-team.png?raw=true" alt="Screenshot" width="200"/>
   </a>
 
+- **Ghostwriter**: Ghostwriter is a distraction-free and themeable Markdown editor, useful to read and edit the .md files produced by AI (prompts, notes and reports) in archaeological projects, with live HTML preview and export to PDF, HTML, ODT and other formats. <br>
+  [Official website](https://ghostwriter.kde.org/) <br>
+  Screenshots: <br>
+  <a href=".././images/ghostwriter_arc-team_progetto_cristo_valcalda.png">
+    <img src=".././images/ghostwriter_arc-team_progetto_cristo_valcalda.png?raw=true" alt="Screenshot" width="200"/>
+  </a>
+
 - **GRASS GIS**: GRASS GIS is a powerful computational engine for raster, vector, and geospatial processing.  
   [Official website](https://grass.osgeo.org/)
 
