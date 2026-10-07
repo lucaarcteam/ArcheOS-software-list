@@ -224,8 +224,14 @@ The complete list in alphabetical order.
 - **OrtogOnBlender**: OrtogOnBlender is an orthognathic surgery planning add-on for Blender, useful for FFA (Forensic Facial Approximation).  
   [Official website](http://www.ciceromoraes.com.br/doc/en/OrtogOnBlender/)
 
-- **ParaView**: ParaView is an open-source multiple-platform application for interactive, scientific visualization.
-  [Official website](https://www.paraview.org/)
+- **ParaView**: ParaView is an open-source multiple-platform application for interactive, scientific visualization. <br>
+  [Official website](https://www.paraview.org/) <br>
+  Screenshots: <br>
+  <a href=".././images/paraview_arc-team_ct_similaun_mummy.png">
+    <img src=".././images/paraview_arc-team_ct_similaun_mummy.png?raw=true" alt="Screenshot" width="200"/>
+  </a> <br>
+  Use of ParaView during the three-dimensional study of the Similaun mummy. <br>
+  More info: <a href="notes/paraview.md">bibliography, webography and gallery</a> <br>
 
 - **PostGIS**: PostGIS extends the capabilities of the PostgreSQL relational database by adding support for storing, indexing, and querying geospatial data.  
   [Official website](https://postgis.net/)
