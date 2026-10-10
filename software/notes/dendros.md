@@ -7,7 +7,7 @@ This page collects the extra information of the entry: webography and field use.
 ## Webography
 
 **First use online**: *DendrOS, an open-source dendrochronology software* (ATOR, 10 October 2026), the announcement article by one of the developers, with the description of the cross-dating workflow (Baillie-Pilcher t-value, master chronology, detrending with dplPy).
-<https://arc-team-open-research.blogspot.com/2026/10/titolo-copialo-nella-casella-post-title_0447036753.html>
+<https://arc-team-open-research.blogspot.com/2026/10/dendros-open-source-dendrochronology.html>
 
 ## In field use since
 
