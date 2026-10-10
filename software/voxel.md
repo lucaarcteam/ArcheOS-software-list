@@ -10,6 +10,6 @@ A list of open-source software for voxel graphics.
   <a href=".././images/paraview_arc-team_ct_similaun_mummy.png">
     <img src=".././images/paraview_arc-team_ct_similaun_mummy.png?raw=true" alt="Screenshot" width="200"/>
   </a> <br>
-  Use of ParaView during the three-dimensional study of the Similaun mummy. <br>
+  <em>Use of ParaView during the three-dimensional study of the Similaun mummy.</em> <br>
   More info: <a href="notes/paraview.md">bibliography, webography and gallery</a> <br>
 

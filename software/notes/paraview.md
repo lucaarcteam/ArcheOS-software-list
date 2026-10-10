@@ -31,4 +31,4 @@ Clipping a Blender amphora in ParaView, from the ATOR article *Something stupid*
 <a href="../../images/paraview_arc-team_anfora_clip_2011.png">
   <img src="../../images/paraview_arc-team_anfora_clip_2011.png?raw=true" alt="Screenshot" width="200"/>
 </a> <br>
-Use of ParaView to prepare the illustration of an amphora for an archaeological publication.
+<em>Use of ParaView to prepare the illustration of an amphora for an archaeological publication.</em>
