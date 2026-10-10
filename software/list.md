@@ -8,7 +8,9 @@ The complete list in alphabetical order.
   Screenshots: <br>
   <a href=".././images/3dhop_st_valentine_ffa_arc-team.png">
       <img src=".././images/3dhop_st_valentine_ffa_arc-team.png?raw=true" alt="Screenshot" width="200"/>
-  </a>
+  </a> <br>
+  <em>Use of 3DHOP during the forensic facial approximation of the skull of Saint Valentine of Monselice.</em> <br>
+  More info: <a href="notes/3dhop.md">bibliography, webography and field use</a> <br>
 
 - **AnythingLLM**: AnythingLLM Desktop ships with everything you need to leverage AI locally with no setup or code. <br> 
   [Official website](https://anythingllm.com/)

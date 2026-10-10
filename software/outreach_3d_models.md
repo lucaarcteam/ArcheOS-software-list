@@ -9,4 +9,6 @@ A list of open-source software for 3D models web-publication.
   Screenshots: <br>
   <a href=".././images/3dhop_st_valentine_ffa_arc-team.png">
       <img src=".././images/3dhop_st_valentine_ffa_arc-team.png?raw=true" alt="Screenshot" width="200"/>
-  </a>
+  </a> <br>
+  <em>Use of 3DHOP during the forensic facial approximation of the skull of Saint Valentine of Monselice.</em> <br>
+  More info: <a href="notes/3dhop.md">bibliography, webography and field use</a> <br>
