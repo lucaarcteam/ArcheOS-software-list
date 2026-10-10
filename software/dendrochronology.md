@@ -9,4 +9,6 @@ A list of open-source dendrochronology software.
   Screenshots: <br>
   <a href=".././images/dendros_arc-team_cnr-ibe_open_source_dendrochronology.png">
     <img src=".././images/dendros_arc-team_cnr-ibe_open_source_dendrochronology.png?raw=true" alt="Screenshot" width="200"/>
-  </a>  
+  </a> <br>
+  Use of DendrOS during the cross-dating of tree-ring width series. <br>
+  More info: <a href="notes/dendros.md">webography and field use</a> <br>  

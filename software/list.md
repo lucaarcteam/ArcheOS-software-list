@@ -70,7 +70,9 @@ The complete list in alphabetical order.
   Screenshots: <br>
   <a href=".././images/dendros_arc-team_cnr-ibe_open_source_dendrochronology.png">
     <img src=".././images/dendros_arc-team_cnr-ibe_open_source_dendrochronology.png?raw=true" alt="Screenshot" width="200"/>
-  </a>  
+  </a> <br>
+  Use of DendrOS during the cross-dating of tree-ring width series. <br>
+  More info: <a href="notes/dendros.md">webography and field use</a> <br>  
 
 - **Dragon Player**: Dragon Player is a video player focusing on simplicity instead of features. <br>
   [Official website](https://apps.kde.org/dragonplayer/) <br>
