@@ -2,7 +2,11 @@
 
 Back to the [DendrOS entry](../dendrochronology.md) in the software list.
 
-This page collects the extra information of the entry: webography and field use.
+This page collects the extra information of the entry: bibliography, webography and field use.
+
+## Bibliography
+
+**Reference bibliography**: not yet available — DendrOS is under active development and has no published reference yet.
 
 ## Webography
 

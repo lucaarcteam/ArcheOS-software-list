@@ -12,8 +12,8 @@ This page collects the extra information of the entry: bibliography, webography,
 **Later** (third party): P. Derudas, F. Nurra, A. Svensson (2023), *New AIR for the Archaeological Process? The Use of 3D Web Semantic for Publishing Archaeological Reports*, Journal on Computing and Cultural Heritage 16(3), pp. 1–23.
 [DOI](https://doi.org/10.1145/3594722): the online publication of the archaeological excavation data is achieved with 3DHOP.
 
-**Founding paper** (developers, context): M. Potenziani, M. Callieri, M. Dellepiane, M. Corsini, F. Ponchio, R. Scopigno (2015), *3DHOP: 3D Heritage Online Presenter*, Computers & Graphics 52, pp. 129–141.
-[DOI](https://doi.org/10.1016/j.cag.2015.07.001): the presentation of the framework by the CNR-ISTI Visual Computing Lab; context for the attestations above.
+**Reference bibliography** (tool, developers — context, not an attestation): M. Potenziani, M. Callieri, M. Dellepiane, M. Corsini, F. Ponchio, R. Scopigno (2015), *3DHOP: 3D Heritage Online Presenter*, Computers & Graphics 52, pp. 129–141.
+[DOI](https://doi.org/10.1016/j.cag.2015.07.001): the presentation of the framework by the CNR-ISTI Visual Computing Lab; the standard reference of the tool.
 
 ## Webography
 

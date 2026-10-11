@@ -53,12 +53,14 @@ The complete list in alphabetical order.
     <img src=".././images/blender_arc-team_torre_dei_sicconi.png?raw=true" alt="Screenshot" width="200"/>
   </a>
 
-- **CloudCompare**: An open-source 3D point cloud and mesh processing software, ideal for LiDAR data and photogrammetric point clouds.  <br> 
+- **CloudCompare**: An open-source 3D point cloud and mesh processing software, ideal for LiDAR data and photogrammetric point clouds. <br>
   [Official website](https://www.cloudcompare.org/)<br>
   Screenshots: <br>
   <a href=".././images/cloud_compare_rasterize_contour_miniera_erdemolo_arc-team.png">
     <img src=".././images/cloud_compare_rasterize_contour_miniera_erdemolo_arc-team.png?raw=true" alt="Screenshot" width="200"/>
-  </a>
+  </a> <br>
+  <em>Use of CloudCompare for the production of maps of the historical Erdemolo mine.</em> <br>
+  More info: <a href="notes/cloudcompare.md">bibliography, webography, field use and gallery</a> <br>
 
 - **DCMTK**: DCMTK is a collection of libraries and applications implementing large parts the DICOM standard. <br>
   [Official website](https://dicom.offis.de/dcmtk.php.en) <br>

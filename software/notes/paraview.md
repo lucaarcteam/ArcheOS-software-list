@@ -6,6 +6,8 @@ This page collects the extra information of the entry: bibliography, webography,
 
 ## Bibliography
 
+**Reference bibliography** (tool, developers — context, not an attestation): J. Ahrens, B. Geveci, C. Law (2005), *ParaView: An End-User Tool for Large-Data Visualization*, in: C. D. Hansen, C. R. Johnson (eds.), The Visualization Handbook, Elsevier, pp. 717–731.
+
 **First archaeological use** (Arc-Team): A. Bezzi, L. Bezzi, D. Francisci, R. Gietl (2006), *L'utilizzo di voxel in campo archeologico*, Geomatics Workbooks n° 6, GEOlab — Politecnico di Milano.
 [Volume](https://www.geolab.polimi.it/volume-6/) — [PDF](https://www.geolab.polimi.it/wp-content/uploads/2020/10/voxel_archeologia_it.pdf): ParaView is the software used for the final visualisation of the data.
 
