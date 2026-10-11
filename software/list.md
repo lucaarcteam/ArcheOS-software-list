@@ -67,7 +67,9 @@ The complete list in alphabetical order.
   Screenshots: <br>
   <a href=".././images/dcmtk_arc-team_oetzi_dicom_2021.png">
     <img src=".././images/dcmtk_arc-team_oetzi_dicom_2021.png?raw=true" alt="Screenshot" width="200"/>
-  </a>
+  </a> <br>
+  <em>Metadata of the DICOM data of the 2021 CT scan of Ötzi, extracted from the shell with the DCMTK command-line tools.</em> <br>
+  More info: <a href="notes/dcmtk.md">bibliography, webography and field use</a> <br>
 
 - **DendrOS**: DendrOS is an open-source dendrochronology software developed by Mauro Bernabei (CNR-IBE) and Luca Bezzi (Arc-Team). <br>
   [Official website](https://github.com/lucaarcteam/DendrOS) <br>
