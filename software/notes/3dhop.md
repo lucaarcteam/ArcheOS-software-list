@@ -2,7 +2,7 @@
 
 Back to the [3DHOP entry](../outreach_3d_models.md) in the software list.
 
-This page collects the extra information of the entry: bibliography, webography and field use.
+This page collects the extra information of the entry: bibliography, webography, field use and gallery.
 
 ## Bibliography
 
@@ -32,3 +32,19 @@ This page collects the extra information of the entry: bibliography, webography 
 ## In field use since
 
 2015, first documented in the ATOR article on the ArcheOS 3DHOP package, showing the WW1 conflict-archaeology 3D web-gallery (26 December 2015).
+
+## Gallery
+
+3D web-gallery with 3DHOP for the conflict archaeology project (WW1), from the ATOR article *ArcheOS Hypatia 3DHOP package (call for testing)* (2015):
+
+<a href="../../images/3dhop_arc-team_ww1_conflict_archaeology_2015.png">
+  <img src="../../images/3dhop_arc-team_ww1_conflict_archaeology_2015.png?raw=true" alt="Screenshot" width="200"/>
+</a> <br>
+<em>Use of 3DHOP for the 3D web-gallery of the conflict archaeology project (WW1).</em>
+
+The "x-ray" extension of 3DHOP, developed during the project on the 3D documentation of the Similaun Mummy (Ötzi), from the ATOR article *3DHOP X-Ray Tool* (2026):
+
+<a href="../../images/3dhop_arc-team_oetzi_mummy_xray_2026.png">
+  <img src="../../images/3dhop_arc-team_oetzi_mummy_xray_2026.png?raw=true" alt="Screenshot" width="200"/>
+</a> <br>
+<em>Use of the 3DHOP "x-ray" extension on the 3D model of the Similaun Mummy (Ötzi).</em>
