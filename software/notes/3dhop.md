@@ -29,6 +29,9 @@ This page collects the extra information of the entry: bibliography, webography,
 *Preserving the Past: Ötzi's Digital Twin* (ATOR, 12 September 2026), the article on the mummy's digital twin built on the 3DHOP X-ray workflow.
 <https://arc-team-open-research.blogspot.com/2026/09/preserving-past-otzis-digital-twin.html>
 
+*3DHOP x-ray tool 2.0* (ATOR, 11 October 2026), release of version 2.0 of the x-ray extension, with a real-time transparency slider, a millimetre-calibrated measure tool and a live demo on GitHub Pages (Röntgen hand).
+<https://arc-team-open-research.blogspot.com/2026/10/3dhop-x-ray-tool-20.html>
+
 ## In field use since
 
 2015, first documented in the ATOR article on the ArcheOS 3DHOP package, showing the WW1 conflict-archaeology 3D web-gallery (26 December 2015).
@@ -48,3 +51,10 @@ The "x-ray" extension of 3DHOP, developed during the project on the 3D documenta
   <img src="../../images/3dhop_arc-team_oetzi_mummy_xray_2026.png?raw=true" alt="Screenshot" width="200"/>
 </a> <br>
 <em>Use of the 3DHOP "x-ray" extension on the 3D model of the Similaun Mummy (Ötzi).</em>
+
+The x-ray tool 2.0, from the ATOR article *3DHOP x-ray tool 2.0* (2026), with the live demo on GitHub Pages of the hand of Röntgen:
+
+<a href="../../images/3dhop_arc-team_xray_tool_v2_rontgen_hand.png">
+  <img src="../../images/3dhop_arc-team_xray_tool_v2_rontgen_hand.png?raw=true" alt="Screenshot" width="200"/>
+</a> <br>
+<em>The x-ray tool 2.0 in action on the Röntgen hand demo, with the skeleton visible through the skin.</em>
