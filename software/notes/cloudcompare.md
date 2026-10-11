@@ -6,20 +6,20 @@ This page collects the extra information of the entry: bibliography, webography,
 
 ## Bibliography
 
-**Reference bibliography** (tool, developer — context, not an attestation): D. Girardeau-Montaut (2015), *CloudCompare: 3D point cloud and mesh processing software*, Open Source Project.
-https://www.cloudcompare.org/: the standard reference of the software by its author; context for the attestations below.
-
 **First archaeological use** (Arc-Team): L. Bezzi, A. Bezzi, C. Boscaro, K. Feistmantl, R. Gietl, G. Naponiello, F. Ottati, M. de Guzman (2018), *Commercial Archaeology and 3D Web Technologies*, Journal of Field Archaeology 43(sup1), pp. S45–S59.
 [DOI](https://doi.org/10.1080/00934690.2018.1505410): the article states that "mesh-editing involved ArcheOS with the use of CloudCompare to shift and clean the point clouds".
-
-**Later** (Arc-Team): L. Bezzi, A. Bezzi, R. Gietl, C. Moraes, E. Vallazza, E. E. Guareschi, M. Tauber, O. Peschel, P. Pernter, A. Putzer (2026), *Preserving the Past: The 3D Documentation of Ötzi, the Iceman Mummy, and Its Archaeological Context*, Heritage 9(9), 339.
-[DOI](https://doi.org/10.3390/heritage9090339): quality control and mesh analysis of the mummy's digital twin were performed using MeshLab and CloudCompare.
 
 **Later** (third party): N. Lercari (2019), *Monitoring earthen archaeological heritage using multi-temporal terrestrial laser scanning and surface change detection*, Journal of Cultural Heritage 39, pp. 152–165.
 [DOI](https://doi.org/10.1016/j.culher.2019.04.005): multi-temporal change detection on the earthen architecture of Çatalhöyük computed with the M3C2 plugin in CloudCompare.
 
 **Later** (third party): E. Alby, T. Dellarovere (2023), *Creation of a 3D reference model of an archaeological site from a large set of ground and UAV images*, ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, X-M-1-2023, pp. 19–25.
 [DOI](https://doi.org/10.5194/isprs-annals-X-M-1-2023-19-2023): point-cloud filtering of the survey of the monastery of Saint Hilarion (Gaza Strip) performed with CloudCompare.
+
+**Later** (Arc-Team): L. Bezzi, A. Bezzi, R. Gietl, C. Moraes, E. Vallazza, E. E. Guareschi, M. Tauber, O. Peschel, P. Pernter, A. Putzer (2026), *Preserving the Past: The 3D Documentation of Ötzi, the Iceman Mummy, and Its Archaeological Context*, Heritage 9(9), 339.
+[DOI](https://doi.org/10.3390/heritage9090339): quality control and mesh analysis of the mummy's digital twin were performed using MeshLab and CloudCompare.
+
+**Reference bibliography** (tool, developer — context, not an attestation): D. Girardeau-Montaut (2015), *CloudCompare: 3D point cloud and mesh processing software*, Open Source Project.
+https://www.cloudcompare.org/: the standard reference of the software by its author; context for the attestations above.
 
 ## Webography
 
